@@ -1,7 +1,7 @@
 "use strict"
 
 const api = {
-    key: "5bccb8f84d1d7a7203b970fa09e99e2b",
+    key: "Enter your key here",
     base: "https://api.openweathermap.org/data/2.5/"
 }
 const searchBox = document.querySelector('.search-box')
